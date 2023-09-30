@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "144944981882",
+    "project_id": "proyecto-grupal-sig-a251c",
+    "storage_bucket": "proyecto-grupal-sig-a251c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144944981882:android:8005004e2038e3e62058c3",
+        "android_client_info": {
+          "package_name": "com.example.proyecto_grupal_sig"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM9CanvfDiQI9EsC-UqxK4_VhpOD6T8cY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
